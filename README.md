@@ -2,7 +2,7 @@
 
 # 📘 Building a Resilient Digital Future: Cyber Law Reforms for Bangladesh
 
-#Mohammad Shahadat Ali Mollah - 1802044
+# Mohammad Shahadat Ali Mollah - 1802044
 
 This repository contains a detailed academic assignment focused on proposing legal reforms for cyber laws in Bangladesh, drawing on best practices from leading countries around the world.
 
